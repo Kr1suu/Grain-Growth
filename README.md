@@ -1,4 +1,4 @@
 # Grain-Growth
 Simple grain growth algorithms implementation using C#.
-Generating inclusions 
+Generating inclusions. 
 Grain boundary shape control
